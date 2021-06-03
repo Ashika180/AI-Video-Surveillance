@@ -1,0 +1,31 @@
+body{
+    background-size: cover;
+}
+
+#copyright{
+    position: fixed;
+    width: 100%;
+    line-height: 1.5;
+    background-color: white;
+    text-align: center;
+    bottom: 0;
+    font-size: 16px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+canvas{
+    box-shadow: 5px 5px 18px white;
+    border: outset 3px orange;
+    margin-top: 130px;
+}
+
+#head{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+#start{
+    font-size: 18px;
+    font-family: comic sans ms;
+}
